@@ -96,7 +96,7 @@ form.addEventListener('submit', function(e) {
     color: #EDF5E1;
             }
             .content .back{
-                background-image: url(https://github.githubassets.com/images/modules/site/social-cards/github-social.png);
+                background-image: url('/images/github-social.png');
                 background-repeat: no-repeat;
                 background-size: cover;
                 height: 225px;
